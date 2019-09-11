@@ -1,4 +1,4 @@
-module github.com/DataDog/opencensus-go-exporter-datadog
+module github.com/sargun/opencensus-go-exporter-datadog
 
 go 1.12
 

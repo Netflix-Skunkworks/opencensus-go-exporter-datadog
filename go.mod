@@ -1,4 +1,4 @@
-module github.com/sargun/opencensus-go-exporter-datadog
+module github.com/netflix-skunkworks/opencensus-go-exporter-datadog
 
 go 1.12
 
